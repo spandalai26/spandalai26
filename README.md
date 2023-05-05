@@ -5,7 +5,7 @@ A bit about me..
 - 📫 How to reach me on 
       [Twitter] (https://twitter.com/1sathyan)
       [LinkedIn] (https://www.linkedin.com/in/spandalai/)
-
+- [I'm an inline-style link](https://www.google.com)
 
 <!---
 spandalai26/spandalai26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
