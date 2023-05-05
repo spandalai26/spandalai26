@@ -3,9 +3,9 @@ A bit about me..
 - 🛠 I’m working as an Architect implementing Automation and AI solutions 
 - 💖 I love Cloud technologies and have worked in Azure. I also love working in Python and SQL 
 
-- 📫 You can reach me on 
-|* [Twitter](https://twitter.com/1sathyan) |
-|* [LinkedIn](https://www.linkedin.com/in/spandalai/) |
+- 📫 You can reach me on
+-  [Twitter](https://twitter.com/1sathyan)
+-  [LinkedIn](https://www.linkedin.com/in/spandalai/)
 
 
 <!---
