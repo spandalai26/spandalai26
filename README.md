@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @spandalai26
-- 👀 I’m interested in Cloud Technologies, Security and Python
-- 🌱 I’m currently learning Security around Cloud
-- 💞️ I’m looking to collaborate on Interesting Technologies
-- 📫 How to reach me https://github.com/spandalai26
+A bit about me..
+- 👋 Hi, I’m Sathya Pandalai
+- 🛠 I’m working as an Architect implementing Automation and AI solutions 
+- 💖 I love Cloud technologies and have worked in Azure. I also love working in Python and SQL 
+- 📫 How to reach me on 
+      [Twitter] (https://twitter.com/1sathyan)
+      [LinkedIn] (https://www.linkedin.com/in/spandalai/)
 
 
 <!---
